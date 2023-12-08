@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-I'm currently working on python  project<br>I'm looking for help in getting  started  with cyber security <br>I'm looking for guide in Data analysis in python<br>I'm currently learning flutter<br>you can ask me about C++, python <br>fun fact i'm a chrismatic programmer<br>
+I'm currently working on python  project<br>I'm looking for help in getting  started  with cyber security <br>I'm looking for guide in Data analysis in python<br>I'm currently learning flutter<br>you can ask me about C++, python <br>fun fact i'm a chrismatic programmer<br> 
 
 
 # 💻 Tech Stack:
