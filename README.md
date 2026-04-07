@@ -1,129 +1,136 @@
-<!-- HEADER -->
+<!-- ================= HEADER ================= -->
 
 <h1 align="center">⚡ ANKIT BHARTI ⚡</h1>
-<h3 align="center">Full-Stack Developer · AI Builder · Creator</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&color=00F5FF&center=true&vCenter=true&width=600&lines=Initializing+Developer+Profile...;Welcome+to+my+world+🚀;Building+AI+%2B+Web+%2B+Mobile" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2500&color=00F5FF&center=true&vCenter=true&width=700&lines=SYSTEM+BOOTING...;INITIALIZING+DEVELOPER+PROFILE;AI+%2B+WEB+%2B+MOBILE+ENGINEER;WELCOME+TO+MY+DASHBOARD+🚀" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,100:bf00ff&height=120&section=header"/>
 </p>
 
 ---
 
-## 🧬 IDENTITY NODE
+## 🧬 IDENTITY CORE
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Repos-45-00f5ff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Stars-77-ff006e?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Followers-5-39ff14?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Following-38-bf00ff?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=ankitbhartii&label=PROFILE+VIEWS&color=00f5ff&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/ankitbhartii?style=for-the-badge&color=39ff14&label=FOLLOWERS" />
+  <img src="https://img.shields.io/github/stars/ankitbhartii?style=for-the-badge&color=ff006e&label=TOTAL+STARS" />
 </p>
 
 <p align="center">
-  Chrismatic programmer who ships real products  
-  <br>
-  Building at the intersection of <b>AI, Web & Mobile</b>
-</p>
-
----
-
-## 🧠 ABOUT.EXE
-
-* 🔭 Working on **Python + AI integrations**
-* 🛡️ Exploring **Cybersecurity & Ethical Hacking**
-* 📊 Learning **Data Analysis (NumPy, Pandas, Matplotlib)**
-* 📱 Mastering **Flutter & Cross-platform apps**
-* 💬 Ask me about **C++, Python, React, Node.js**
-* ⚡ I ship products, not just code
-
----
-
-## ⚔️ TECH ARSENAL
-
-### 🚀 Core
-
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge\&logo=javascript)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge\&logo=python)
-![C++](https://img.shields.io/badge/C++-000?style=for-the-badge\&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge\&logo=java)
-
-### 🌐 Frontend
-
-![React](https://img.shields.io/badge/React-000?style=for-the-badge\&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge\&logo=next.js)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge\&logo=css3)
-
-### 📱 Mobile
-
-![React Native](https://img.shields.io/badge/React%20Native-000?style=for-the-badge\&logo=react)
-![Flutter](https://img.shields.io/badge/Flutter-000?style=for-the-badge\&logo=flutter)
-
-### 🧠 Backend & DB
-
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge\&logo=node.js)
-![Django](https://img.shields.io/badge/Django-000?style=for-the-badge\&logo=django)
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge\&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge\&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge\&logo=mysql)
-
----
-
-## 📊 GITHUB STATS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitbhartii&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitbhartii&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ankitbhartii&theme=tokyonight&hide_border=true"/>
+  <b>Full-Stack Developer • AI Builder • Product Creator</b><br>
+  <i>Building real systems, not just writing code</i>
 </p>
 
 ---
 
-## 🔥 CONTRIBUTION MATRIX
+## 🧠 ABOUT SYSTEM
+
+```yaml
+Name: Ankit Bharti
+Focus: AI + Full Stack + Mobile
+Currently:
+  - Python AI Projects
+  - Flutter Apps
+  - Cybersecurity Basics
+Strength:
+  - Shipping real-world products
+```
+
+---
+
+## ⚔️ TECH MATRIX
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitbhartii&theme=tokyo-night&hide_border=true"/>
+
+<img src="https://skillicons.dev/icons?i=js,python,cpp,java,react,next,nodejs,django,flutter,mongodb,postgres,mysql,figma&theme=dark" />
+
 </p>
 
 ---
 
-## 🧪 TOP LANGUAGES (VISUAL)
+## 📊 CORE METRICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitbhartii&layout=donut&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitbhartii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitbhartii&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="160"/>
 </p>
 
 ---
 
-## 🌐 CONNECT.INIT()
+## 🔥 STREAK ENGINE
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ankitbhartii&theme=tokyonight&hide_border=true&background=00000000"/>
+</p>
+
+---
+
+## ⚡ CONTRIBUTION GRID (LIVE)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitbhartii&theme=react-dark&hide_border=true&area=true"/>
+</p>
+
+---
+
+## 🧪 ADVANCED VISUAL ANALYTICS
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankitbhartii&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankitbhartii&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ankitbhartii&theme=tokyonight"/>
+</p>
+
+---
+
+## 🧠 AI STATUS PANEL
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Projects-Active-00f5ff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deployment-Production-39ff14?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Innovation-bf00ff?style=for-the-badge"/>
+</p>
+
+---
+
+## 🌐 CONNECT NODE
 
 <p align="center">
   <a href="https://github.com/ankitbhartii">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter"/>
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter"/>
   </a>
 </p>
 
 ---
 
-## ⚡ SYSTEM LOG
+## ⚙️ SYSTEM TERMINAL
 
 ```bash
-> initializing developer profile...
-> loading skills...
-> deploying ideas...
-> welcome to my world 🚀
+> boot sequence initialized...
+> loading modules ███████████ 100%
+> AI systems online
+> welcome Ankit 🚀
 ```
 
 ---
 
 <p align="center">
-  ⭐ CODED WITH ❤️ & ☕ BY ANKIT BHARTI ⭐  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bf00ff,100:00f5ff&height=120&section=footer"/>
+</p>
+
+<p align="center">
+  ⭐ Designed & Engineered by Ankit Bharti ⭐
 </p>
