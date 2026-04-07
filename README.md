@@ -1,67 +1,70 @@
-<!-- ================= HEADER ================= -->
-
-<h1 align="center">⚡ ANKIT BHARTI ⚡</h1>
+<!-- ================= SYSTEM BOOT ================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2500&color=00F5FF&center=true&vCenter=true&width=700&lines=SYSTEM+BOOTING...;INITIALIZING+DEVELOPER+PROFILE;AI+%2B+WEB+%2B+MOBILE+ENGINEER;WELCOME+TO+MY+DASHBOARD+🚀" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=ANKIT%20BHARTI&fontSize=60&color=0:00f5ff,100:bf00ff&stroke=00f5ff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,100:bf00ff&height=120&section=header"/>
-</p>
-
----
-
-## 🧬 IDENTITY CORE
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ankitbhartii&label=PROFILE+VIEWS&color=00f5ff&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/ankitbhartii?style=for-the-badge&color=39ff14&label=FOLLOWERS" />
-  <img src="https://img.shields.io/github/stars/ankitbhartii?style=for-the-badge&color=ff006e&label=TOTAL+STARS" />
-</p>
-
-<p align="center">
-  <b>Full-Stack Developer • AI Builder • Product Creator</b><br>
-  <i>Building real systems, not just writing code</i>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2000&pause=800&color=00F5FF&center=true&vCenter=true&width=800&lines=BOOTING+SYSTEM...;LOADING+NEURAL+CORE...;INITIALIZING+AI+ENGINE...;WELCOME+TO+THE+FUTURE+🚀" />
 </p>
 
 ---
 
-## 🧠 ABOUT SYSTEM
+<!-- ================= GLITCH LINE ================= -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,100:ff006e&height=3"/>
+</p>
+
+---
+
+## 🧠 CORE PROFILE MATRIX
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ankitbhartii&label=VISITORS&color=00f5ff&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/ankitbhartii?style=for-the-badge&color=39ff14"/>
+  <img src="https://img.shields.io/github/stars/ankitbhartii?style=for-the-badge&color=ff006e"/>
+</p>
+
+<p align="center">
+  <b>⚡ Full-Stack Developer • AI Systems Builder • Product Engineer ⚡</b><br>
+  <i>Designing systems that actually scale and ship</i>
+</p>
+
+---
+
+## 🧬 SYSTEM CONFIG
 
 ```yaml
-Name: Ankit Bharti
-Focus: AI + Full Stack + Mobile
-Currently:
-  - Python AI Projects
-  - Flutter Apps
-  - Cybersecurity Basics
-Strength:
-  - Shipping real-world products
+User: Ankit Bharti
+Mode: Production
+Stack:
+  - AI Systems
+  - Full Stack Web
+  - Mobile Apps
+Status: Building 🚀
 ```
 
 ---
 
-## ⚔️ TECH MATRIX
+## ⚔️ TECH CONSTELLATION
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=js,python,cpp,java,react,next,nodejs,django,flutter,mongodb,postgres,mysql,figma&theme=dark" />
-
+  <img src="https://skillicons.dev/icons?i=js,python,cpp,java,react,next,nodejs,django,flutter,mongodb,postgres,mysql,figma,git&perline=7" />
 </p>
 
 ---
 
-## 📊 CORE METRICS
+## ⚡ LIVE PERFORMANCE DASHBOARD
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitbhartii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitbhartii&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitbhartii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitbhartii&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="170"/>
 </p>
 
 ---
 
-## 🔥 STREAK ENGINE
+## 🔥 EXECUTION STREAK
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ankitbhartii&theme=tokyonight&hide_border=true&background=00000000"/>
@@ -69,15 +72,15 @@ Strength:
 
 ---
 
-## ⚡ CONTRIBUTION GRID (LIVE)
+## 🧠 NEURAL ACTIVITY GRAPH
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitbhartii&theme=react-dark&hide_border=true&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitbhartii&theme=react-dark&hide_border=true&area=true&line=00f5ff&point=ff006e"/>
 </p>
 
 ---
 
-## 🧪 ADVANCED VISUAL ANALYTICS
+## 🧪 ADVANCED ANALYTICS ENGINE
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankitbhartii&theme=tokyonight"/>
@@ -90,17 +93,25 @@ Strength:
 
 ---
 
-## 🧠 AI STATUS PANEL
+## ⚡ SYSTEM STATUS
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Projects-Active-00f5ff?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Deployment-Production-39ff14?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-Innovation-bf00ff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%20SYSTEM-ACTIVE-00f5ff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DEPLOYMENT-LIVE-39ff14?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FOCUS-INNOVATION-bf00ff?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🌐 CONNECT NODE
+## 🎯 REAL-TIME TERMINAL
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=1500&color=39FF14&center=true&vCenter=true&width=800&lines=>+Initializing...;>+Loading+Modules...;>+AI+Online;>+System+Ready+✔" />
+</p>
+
+---
+
+## 🌐 CONNECT PROTOCOL
 
 <p align="center">
   <a href="https://github.com/ankitbhartii">
@@ -116,21 +127,10 @@ Strength:
 
 ---
 
-## ⚙️ SYSTEM TERMINAL
-
-```bash
-> boot sequence initialized...
-> loading modules ███████████ 100%
-> AI systems online
-> welcome Ankit 🚀
-```
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bf00ff,100:00f5ff&height=120&section=footer"/>
 </p>
 
 <p align="center">
-  ⭐ Designed & Engineered by Ankit Bharti ⭐
+  ⚡ DESIGNED TO IMPRESS • BUILT TO SHIP ⚡
 </p>
